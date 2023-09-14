@@ -1,5 +1,12 @@
 #ifndef main_h
 #define main_h
+
+/*
+ * File: main.h
+ *
+ * Desc: Header file containing declartions for all function
+ */
+
 int _putchar(char);
 void print_alphabet(void);
 void print_alphabet_x10(void);
