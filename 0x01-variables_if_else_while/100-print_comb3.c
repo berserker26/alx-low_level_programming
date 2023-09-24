@@ -8,20 +8,19 @@
 int main(void)
 {
 	int i = 48, j;
-	
-	while (i < 58)
-	{
-		j = i + 1;
-		while (j < 58)
+		while (i < 58)
 		{
-			putchar(i);
-			putchar(j);
-			putchar(',');
-			putchar(' ');
-			j++;
+			j = i + 1;
+			while (j < 58)
+			{
+				putchar(i);
+				putchar(j);
+				putchar(',');
+				putchar(' ');
+				j++;
+			}
+			i++;
 		}
-		i++;
-	}
-		putchar('\n');
-		return (0);
+			putchar('\n');
+			return (0);
 }
