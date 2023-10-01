@@ -5,15 +5,15 @@
  *@c: letter being tested
  * Return: Always 0
  */
-void _islower(char c)
+int _islower(int c)
 {
 	if (c >= 97 && c <= 122)
 	{
-		putchar(49);
+		return(1);
 	}
 	else 
 	{
-		putchar(48);
+		return(0);
 	}
 	
 }
