@@ -1,0 +1,30 @@
+[General]
+filedialog-path=@Variant(\0\0\0\x11\0\0\0\n/home/orey)
+geometry=@ByteArray(\x1\xd9\xd0\xcb\0\x3\0\0\0\0\0\xf9\0\0\0\x63\0\0\x5\xf8\0\0\x2\xf1\0\0\0\xf9\0\0\0\x88\0\0\x5\xf8\0\0\x2\xf1\0\0\0\0\0\0\0\0\a\x80\0\0\0\xf9\0\0\0\x88\0\0\x5\xf8\0\0\x2\xf1)
+
+[FullScreen]
+pos=@Point(560 1016)
+screen=@Rect(0 0 1920 1080)
+wide=false
+
+[MainWindow]
+adv-controls=0
+bgSize=@Size(100 30)
+pl-dock-status=true
+playlist-visible=true
+playlistSize=@Size(1280 720)
+status-bar-visible=false
+
+[Playlist]
+headerStateV2=@ByteArray(\0\0\0\xff\0\0\0\0\0\0\0\x1\0\0\0\0\xff\xff\xff\xff\x1\0\0\0\0\0\0\0\0\0\0\0\r\xec\x1f\0\0\0\n\0\0\0\f\0\0\0\x64\0\0\0\t\0\0\0\x64\0\0\0\b\0\0\0\x64\0\0\0\v\0\0\0\x64\0\0\0\n\0\0\0\x64\0\0\0\x5\0\0\0\x64\0\0\0\a\0\0\0\x64\0\0\0\x6\0\0\0\x64\0\0\0\x3\0\0\0\x64\0\0\0\x2\0\0\0\x64\0\0\x4\x46\0\0\0\r\x1\x1\0\x1\0\0\0\0\0\0\0\0\0\0\0\0\x64\xff\xff\xff\xff\0\0\0\x81\0\0\0\0\0\0\0\r\0\0\0\xc8\0\0\0\x1\0\0\0\0\0\0\0P\0\0\0\x1\0\0\0\0\0\0\0\0\0\0\0\x1\0\0\0\0\0\0\0\0\0\0\0\x1\0\0\0\0\0\0\x3.\0\0\0\x1\0\0\0\0\0\0\0\0\0\0\0\x1\0\0\0\0\0\0\0\0\0\0\0\x1\0\0\0\0\0\0\0\0\0\0\0\x1\0\0\0\0\0\0\0\0\0\0\0\x1\0\0\0\0\0\0\0\0\0\0\0\x1\0\0\0\0\0\0\0\0\0\0\0\x1\0\0\0\0\0\0\0\0\0\0\0\x1\0\0\0\0\0\0\0\0\0\0\0\x1\0\0\0\0\0\0\x3\xe8\0\0\0\0\x64)
+leftSplitterGeometry=@ByteArray(\0\0\0\xff\0\0\0\x1\0\0\0\x2\0\0\0\xc0\0\0\0\x80\x1\xff\xff\xff\xff\x1\0\0\0\x2\0)
+splitterSizes=@ByteArray(\0\0\0\xff\0\0\0\x1\0\0\0\x2\0\0\0\xb4\0\0\x1\xa4\x1\xff\xff\xff\xff\x1\0\0\0\x1\0)
+view-mode=1
+zoom=0
+
+[RecentsMRL]
+list=file:///home/orey/Downloads/3%20Idiots%20%282009%29%20%5BBluRay%5D%20%5B720p%5D%20%5BYTS.AM%5D/3.Idiots.2009.720p.BluRay.x264-%5BYTS.AM%5D.mp4, file:///home/orey/Downloads/CONQUER%20THE%20WORLD%20-%20%20Best%20Motivational%20Speech%20by%20Andrew%20Tate.mp4, file:///home/orey/Downloads/BrazzersExxtra.20.11.19.Halle.Hayes.Roommates.With.Fuck.Buddy.Benefits..480p.MP4-XXX/bex.20.11.19.halle.hayes.roommates.with.fuck.buddy.benefits.mp4, file:///home/orey/Downloads/j%5C/deeplush.20.03.11.scarlit.scandal.dream.come.true.mp4, file:///home/orey/Downloads/j%5C/Deeper.20.09.24.Scarlit.Scandal.Gianna%20Dior.Muse.Episode.2.480p.mp4, file:///home/orey/Downloads/j%5C/Blacked%20-%20Tori%20Black%20-%20Limits%20Of%20Temptation.mp4, file:///home/orey/Downloads/j%5C/BlackedRaw%20-%20Tori%20Black%20-%20Hey%20Babe%20Missed%20My%20Flight.mp4
+times=1091694, 0, 1642820, 1577529, 2479372, 0, 0
+
+[playlistdialog]
+geometry=@ByteArray(\x1\xd9\xd0\xcb\0\x3\0\0\0\0\x2\x94\0\0\0\xcb\0\0\x4\xeb\0\0\x3\x86\0\0\x2\x94\0\0\0\xcb\0\0\x4\xeb\0\0\x3\x86\0\0\0\0\0\0\0\0\a\x80\0\0\x2\x94\0\0\0\xcb\0\0\x4\xeb\0\0\x3\x86)
