@@ -2,9 +2,9 @@
 
 size_t print_list(const list_t *h)
 {
-	list_s ptr;
+	struct list_s ptr;
 	size_t count = 0;
-	while(ptr->next != null)
+	while(ptr->next != NULL)
 	{
 		printf("%s\n", ptr->str);
 		count++;
