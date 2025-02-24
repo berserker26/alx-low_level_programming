@@ -2,7 +2,7 @@
 #define LISTS_H
 #include<stdio.h>
 #include<string.h>
-
+#include<stdlib.h>
 typedef struct list_s
 {
     char *str;
