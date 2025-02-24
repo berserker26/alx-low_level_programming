@@ -2,8 +2,10 @@
 
 size_t print_list(const list_t *h)
 {
-	struct list_s ptr;
+	list_t* ptr;
 	size_t count = 0;
+	
+	ptr = h;
 	while(ptr->next != NULL)
 	{
 		printf("%s\n", ptr->str);
