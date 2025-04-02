@@ -2,23 +2,18 @@
 #include <stdlib.h>
 /**
  * free_listint - a subroutine to free a given list
- *
+ * @head: the first node in the list
  * Return: nothing
  */
 
 void free_listint(listint_t *head)
 {
-	listint_t *ptr = head;
-	if (head->next == NULL)
+	listint_t *ptr;
+	
+	while(head != NULL)
 	{
+		ptr = head->next;
 		free(head);
-		return;
-	}
-
-	while(ptr != NULL)
-	{
-		ptr = ptr->next;
-		free(ptr);
-		return;
+		head = ptr;
 	}
 }
