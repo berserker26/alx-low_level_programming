@@ -4,7 +4,7 @@
 /**
  * free_listint2 - a function to clear the list
  *
- * @head - the first node in the list
+ * @head: the first node in the list
  * Return: Nothing
  */
 
