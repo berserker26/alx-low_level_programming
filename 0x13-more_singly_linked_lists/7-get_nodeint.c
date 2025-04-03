@@ -2,23 +2,23 @@
 #include <stdlib.h>
 
 /**
- * get_nodeint_at_index - Find a node in a list.
- * @head: Address of the first node in a list.
- * @index: Position of a the node to find (starting from 0).
- * Return: Node address.
- **/
+* get_nodeint_at_index - a returns the nth node of a list.
+* @head: a pointer to a the first node in the list
+* @index: a required index to find
+* Return: the Node or Null if not found
+*/
 
 listint_t *get_nodeint_at_index(listint_t *head, unsigned int index)
 {
-	unsigned int y = 0;
+	listint_t *ptr = head;
+	unsigned int i = 0;
 
-	if (head == NULL)
-		return (NULL);
-	for (y = 0; y < index; y++)
+	while (ptr != NULL && i <= index)
 	{
-		head = head->next;
-		if (head == NULL)
-			return (NULL);
+		ptr = ptr->next;
+		i++;
+		if (i == index)
+			return (ptr);
 	}
-	return (head);
+	return (NULL);
 }
