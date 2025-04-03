@@ -4,6 +4,7 @@
 /**
 * pop_listint - a subroutine to delete the head node
 * @head: a pointer to the first node in the list
+* @ptr: a pointer to the head also to reference
 * Return: 0 if the list is empty else the head data
 */
 
